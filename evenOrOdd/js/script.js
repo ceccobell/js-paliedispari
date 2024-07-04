@@ -1,1 +1,1 @@
-alert("TEST")
+let choice = prompt("Scegli pari o dispari")
