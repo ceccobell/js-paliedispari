@@ -10,3 +10,11 @@ function randomNum() {
     let num = Math.floor(Math.random() * 5 + 1)
     return num
 }
+
+function evenOrOdd(num) {
+    if (num % 2 == 0) {
+        return true
+    }
+
+    return false
+}
